@@ -1,0 +1,208 @@
+[
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CourseCategoriesController",
+    "Method": "EndPoint15",
+    "RelativePath": "api/CourseCategories/EndPoint15",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint1",
+    "RelativePath": "api/Courses/EndPoint1",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fee",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint10",
+    "RelativePath": "api/Courses/EndPoint10",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint11",
+    "RelativePath": "api/Courses/EndPoint11",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint12",
+    "RelativePath": "api/Courses/EndPoint12",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint13",
+    "RelativePath": "api/Courses/EndPoint13",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint14",
+    "RelativePath": "api/Courses/EndPoint14",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageno",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pagesize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint2",
+    "RelativePath": "api/Courses/EndPoint2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "min",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "max",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint3",
+    "RelativePath": "api/Courses/EndPoint3",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint4",
+    "RelativePath": "api/Courses/EndPoint4",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint5",
+    "RelativePath": "api/Courses/EndPoint5",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint6",
+    "RelativePath": "api/Courses/EndPoint6",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint7",
+    "RelativePath": "api/Courses/EndPoint7",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint8",
+    "RelativePath": "api/Courses/EndPoint8",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.CoursesController",
+    "Method": "EndPoint9",
+    "RelativePath": "api/Courses/EndPoint9",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CENTER_MANAGEMENT_SYSTEM.Controllers.InstructorsController",
+    "Method": "EndPoint16",
+    "RelativePath": "api/Instructors/EndPoint16",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
